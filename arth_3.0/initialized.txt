@@ -1,0 +1,23 @@
+1. They will gonna do profiling for each student.
+2. They will make us able to solve new problem not existing problems.
+3. Also guide about how to handle stress, anxiety, fear, etc.
+4. This is not only Technical program.
+5. will Teach non Technical skills like Communication skill.
+6. They said Arth should be our First Priority.
+7. Sir, Talked alot about will teach how to integrate technologies to build a project.
+8. All the technologies are Interlinked.
+9. Technologies will be covered in next 12 months:-
+     1) Specialization in Data Science.
+     2) Specialization in containers & kubernetes.
+     3) Specialization in Devops.
+     4) Specialization in Cloud Computing.
+     5) Database DBMS system.
+     6) Linux and Networking.
+     7) Programming Languages. 
+     8) Full Stack Developement using MERN.
+     9) Advance DSA with Competitive Programming.
+
+
+
+     ***WELCOME TO THIS BIG, POWERFUL JOURNEY OF "ARTH3.0"***
+
